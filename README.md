@@ -9,7 +9,7 @@ At the moment I study HTML, CSS, JS, JAVA, PostgreSQL and i started studying Rea
 </div>
 <br>
 <div align="center">
-<a href="https://github.com/ArthurMoli">  //Stats
+<a href="https://github.com/ArthurMoli"> 
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kuronma&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuronma&layout=compact&langs_count=7&theme=great-gatsby"/>
 
